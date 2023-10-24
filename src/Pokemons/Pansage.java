@@ -1,5 +1,5 @@
 package Pokemons;
-import attacks.specSial.Aeroblast;
+import attacks.special.Aeroblast;
 import attacks.special.Mud_Slap;
 import attacks.special.RazorWind;
 import attacks.status.FocusEnergy;
